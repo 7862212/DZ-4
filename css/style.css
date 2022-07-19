@@ -2,21 +2,29 @@
 	width: 1024px;
 	height: 800px;
 	margin: 0 auto;
-	background-color: darkkhaki;
 	font-family: serif;
 }
+
 h1{
 	text-align: center;
 	padding: 20px;
 	margin: 20px 20px;
 }
-.elem{
-	width: 500px;
-	height: 500px;
-	margin: 0 auto;
-	text-align: center;
-	background-color:aqua;
+
+h2{
+		text-align: center;
+		padding: 20px;
+		margin: 20px 20px;
 }
+
+.elem{
+	background: url(../img/images.png) 0 0/100% auto no-repeat;
+	width: 300px;
+	height: 300px;
+	margin: 0 auto;
+	border: 1px solid black;
+}
+
 .elem2{
 	text-align: center;
 	padding: 20px;
