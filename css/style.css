@@ -1,0 +1,18 @@
+.wrapper{
+	width: 1024px;
+	height: 800px;
+	margin: 0 auto;
+	background-color: darkkhaki;
+	font-family: serif;
+}
+h1{
+	text-align: center;
+	padding: 20px;
+	margin: 20px 20px;
+}
+.elem{
+	width: 500px;
+	height: 500px;
+	margin: 0 auto;
+	text-align: center;
+}
