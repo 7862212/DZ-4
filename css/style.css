@@ -15,4 +15,9 @@ h1{
 	height: 500px;
 	margin: 0 auto;
 	text-align: center;
+	background-color:aqua;
+}
+.elem2{
+	text-align: center;
+	padding: 20px;
 }
